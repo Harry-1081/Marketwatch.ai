@@ -1,0 +1,15 @@
+Flask==2.3.2
+flask-cors==3.1.0
+flask-pydantic==0.10.0
+pydantic==1.10.8
+python-dotenv==1.0.0
+sentence-transformers==2.2.2
+langchain_ibm==0.1.0 
+pymilvus==2.2.8
+selenium==4.15.0
+webdriver-manager==4.2.0
+yfinance==0.2.18
+pandas==2.1.1
+matplotlib==3.8.0
+ibm-watson-machine-learning==1.0.8
+newsapi-python==0.2.7
