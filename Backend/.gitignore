@@ -1,2 +1,2 @@
-app/venv
-app/.env
+app/stock.py
+app/test.ipynb
